@@ -18,4 +18,4 @@ script:
     bucket_name: elasticbeanstalk-us-east-1-054747763671
     bucket_path: docker-react
     on:
-      repo: docker-react-ebs
+      branch: master
